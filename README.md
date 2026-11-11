@@ -27,26 +27,6 @@ Doctor Tracker provides an integrated platform for managing doctors, patients, a
 - **Responsive Interface:** Layout designed for desktop and mobile devices.
 - **REST API Integration:** Centralized communication between the frontend and backend.
 
-## Application Screenshots
-
-Add screenshots of the actual deployed application in `docs/screenshots/` and update the paths below if your filenames differ.
-
-### Dashboard
-
-![Doctor Tracker Dashboard](docs/screenshots/dashboard.png)
-
-### Doctor Management
-
-![Doctor Management](docs/screenshots/doctors.png)
-
-### Patient Management
-
-![Patient Management](docs/screenshots/patients.png)
-
-### Mobile Interface
-
-![Doctor Tracker Mobile Interface](docs/screenshots/mobile.png)
-
 ## Technology Stack
 
 ### Frontend
@@ -159,7 +139,7 @@ http://localhost:5000/api/health
 
 ### 3. Configure the Frontend
 
-Open a separate terminal and navigate to the frontend directory:
+Open a separate terminal and navigate to the frontend directory from the repository root:
 
 ```bash
 cd Doctor-tracker/frontend
