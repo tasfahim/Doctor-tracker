@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import {
   createContext,
@@ -49,7 +49,7 @@ const translations: Record<Language, Record<string, string>> = {
     searchPatients: "Search patient name or phone...", filterCondition: "Filter by condition...",
     doctorDirectory: "Doctor directory", patientDirectory: "Patient directory",
     doctorRecords: "doctor records", patientRecordCount: "patient records",
-    specialization: "Specialization", hospital: "Hospital", patients: "Patients",
+    specialization: "Specialization", hospital: "Hospital",
     contact: "Contact", actions: "Actions", ageGender: "Age / Gender",
     assignedDoctor: "Assigned doctor", dateAdded: "Date added",
     editDoctor: "Edit doctor", newDoctor: "Add new doctor", editPatient: "Edit patient",
@@ -134,7 +134,7 @@ const translations: Record<Language, Record<string, string>> = {
     searchPatients: "রোগীর নাম বা ফোন নম্বর দিয়ে খুঁজুন...", filterCondition: "রোগের অবস্থা দিয়ে ফিল্টার করুন...",
     doctorDirectory: "ডাক্তার তালিকা", patientDirectory: "রোগীর তালিকা",
     doctorRecords: "জন ডাক্তার", patientRecordCount: "টি রোগীর রেকর্ড",
-    specialization: "বিশেষজ্ঞতা", hospital: "হাসপাতাল", patients: "রোগী",
+    specialization: "বিশেষজ্ঞতা", hospital: "হাসপাতাল",
     contact: "যোগাযোগ", actions: "কার্যক্রম", ageGender: "বয়স / লিঙ্গ",
     assignedDoctor: "নির্ধারিত ডাক্তার", dateAdded: "যোগ করার তারিখ",
     editDoctor: "ডাক্তার সম্পাদনা", newDoctor: "নতুন ডাক্তার যোগ করুন",
